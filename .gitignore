@@ -1,0 +1,13 @@
+# Local database credentials
+/src/main/resources/database.properties
+
+# Maven build output
+/target/
+
+# IDE and operating-system files
+/.idea/
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
